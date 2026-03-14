@@ -4,6 +4,7 @@ Cleaning Data in SQL Queries
 
 */
 
+-- The raw dataset used in this project is available in the Nashville housing data gor Data cleaning.xlsx
 
 Select *
 From PortfolioProject.dbo.NashvilleHousing
@@ -217,31 +218,3 @@ From PortfolioProject.dbo.NashvilleHousing
 
 ALTER TABLE PortfolioProject.dbo.NashvilleHousing
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

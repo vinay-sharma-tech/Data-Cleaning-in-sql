@@ -4,7 +4,7 @@ Cleaning Data in SQL Queries
 
 */
 
--- The raw dataset used in this project is available in the Nashville housing data for Data cleaning.xlsx
+-- The raw dataset used in this project is available in the Nashville housing data for Data cleaning
 
 Select *
 From PortfolioProject.dbo.NashvilleHousing
